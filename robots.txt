@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://sinorajatatu.netlify.app/sitemap.xml
